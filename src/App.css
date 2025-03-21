@@ -36,3 +36,20 @@
 .text-iron {
   color: #0a035a;
 }
+
+.offer {
+  border: 1px solid black;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  width: 50%;
+  height: 200px ;
+  margin: 20px auto;
+}
+
+.offer-img {
+  margin: 10px 20px;
+  width: 250px;
+  height: 150px;
+}
